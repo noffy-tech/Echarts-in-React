@@ -3,9 +3,12 @@ Here we will show you, how we can implement echarts in react. with the use of [E
 
 
 # Getting Started with Create React App
+Create the project by entering the following line in command:
+`npx create-react-app my-app`
 
 [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
 ## Now add Echarts to the project
+`cd my-app`
 `yarn add echarts echarts-for-react`
 or 
 `npm i echarts echarts-for-react`
