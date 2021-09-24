@@ -6,6 +6,8 @@ In this project I'm going to explain easy way to implement echarts in React
 [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
 ## Now add Echarts to the project
 `yarn add echarts echarts-for-react`
+or 
+`npm i echarts echarts-for-react`
 
 ## Now Replace the src/App.js
 
