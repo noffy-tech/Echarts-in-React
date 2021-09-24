@@ -9,8 +9,11 @@ Create the project by entering the following line in command:
 [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
 ## Now add Echarts to the project
 `cd my-app`
+
 `yarn add echarts echarts-for-react`
+
 or 
+
 `npm i echarts echarts-for-react`
 
 ## Now Replace the src/App.js
